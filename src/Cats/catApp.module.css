@@ -1,0 +1,12 @@
+.mainBlock {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

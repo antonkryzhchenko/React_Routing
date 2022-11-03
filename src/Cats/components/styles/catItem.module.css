@@ -1,0 +1,12 @@
+.cat {
+    display: flex;
+    justify-content: space-between;
+    background-color: cadetblue;
+    padding: 10px 5px;
+    margin: 10px 0;
+    border: 1px solid black;
+}
+
+.catItemBtn {
+    margin-left: 10px;
+}
