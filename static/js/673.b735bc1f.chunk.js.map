@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/673.b735bc1f.chunk.js","mappings":"sIAKA,UALsB,WAClB,OACI,qNAER,C","sources":["Cats/components/LazyComponent.js"],"sourcesContent":["const LazyComponent = () => {\r\n    return (\r\n        <h4>Компонент был загружен с помощью Lazy Loading</h4>\r\n    )\r\n}\r\nexport default LazyComponent;"],"names":[],"sourceRoot":""}
